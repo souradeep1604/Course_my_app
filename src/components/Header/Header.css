@@ -1,0 +1,41 @@
+.sw-header {
+	width: 100%;
+	padding: 32px 0px;
+}
+.sw-header__logo-img {
+	width: 120px;
+	height: auto;
+}
+.sw-header__inner {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 20px;
+	margin: 0 auto;
+	max-width: 1200px;
+}
+
+.sw-header__nav {
+	display: flex;
+	gap: 30px;
+	align-items: center;
+}
+.sw-header__link {
+	color: white;
+	font-size: 16px;
+	font-weight: 600;
+	text-decoration: none;
+}
+
+.sw-header__signin {
+	background-color: black;
+	color: white;
+	padding: 12px 40px;
+	border-radius: 12px;
+	font-weight: 700;
+}
+.sw-header__get-app {
+	border: 1px solid white;
+	border-radius: 12px;
+	padding: 12px 20px;
+}
