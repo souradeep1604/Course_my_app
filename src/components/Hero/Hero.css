@@ -38,3 +38,13 @@
 	text-align: center;
 	margin: 0;
 }
+
+.sw-hero__search {
+	width: 40%;
+	height: 50px;
+	border: none;
+	border-radius: 25px;
+	padding: 0 20px;
+	font-size: 16px;
+	margin-top: 10px;
+}

@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"name": "KFC",
+		"image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2026/2/12/7ba3750d-e47c-4a36-a911-8ffc50745f81_816377.JPG",
+		"rating": 4.3,
+		"deliveryTime": "25-30 min",
+		"cuisine": "Burgers, Fried Chicken, Rolls",
+		"location": "Kolkata, WB",
+		"offer": "20% Off"
+	},
+	{
+		"id": 2,
+		"name": "McDonald's",
+		"image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/74a31f8ed255d9c8394b1ff8f09efa01",
+		"rating": 4.1,
+		"deliveryTime": "20-25 min",
+		"cuisine": "Burgers, Fries, Beverages",
+		"location": "Kolkata, WB",
+		"offer": "15% Off"
+	},
+	{
+		"id": 3,
+		"name": "Domino's Pizza",
+		"image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ebe8d345fd9c74405d601411f2927290",
+		"rating": 4.4,
+		"deliveryTime": "30-35 min",
+		"cuisine": "Pizzas, Pasta, Garlic Bread",
+		"location": "Kolkata, WB",
+		"offer": "30% Off"
+	},
+	{
+		"id": 4,
+		"name": "Burger King",
+		"image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ebe8d345fd9c74405d601411f2927290",
+		"rating": 4.0,
+		"deliveryTime": "35-40 min",
+		"cuisine": "Burgers, Wraps, Beverages",
+		"location": "Kolkata, WB",
+		"offer": "Buy 1 Get 1"
+	},
+	{
+		"id": 5,
+		"name": "Pizza Hut",
+		"image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ebe8d345fd9c74405d601411f2927290",
+		"rating": 4.2,
+		"deliveryTime": "30-40 min",
+		"cuisine": "Pizzas, Pasta, Wings",
+		"location": "Kolkata, WB",
+		"offer": "50% Off up to ₹100"
+	},
+	{
+		"id": 6,
+		"name": "Subway",
+		"image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ebe8d345fd9c74405d601411f2927290",
+		"rating": 4.5,
+		"deliveryTime": "20-30 min",
+		"cuisine": "Subs, Salads, Wraps",
+		"location": "Kolkata, WB",
+		"offer": "10% Off"
+	}
+]

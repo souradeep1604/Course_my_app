@@ -1,0 +1,11 @@
+.sw-services__img {
+	width: 25%;
+	height: auto;
+	cursor: pointer;
+}
+.sw-services {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	justify-content: center;
+}
